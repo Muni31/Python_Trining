@@ -18,7 +18,5 @@ else:
     b=list(a)
     b[x-1]=a[y-1]
     b[y-1]=a[x-1]
-    c=''.join(b)
-    
-print(c)
-
+    just=''.join(b) 
+print(just)
