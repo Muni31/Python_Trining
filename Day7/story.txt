@@ -1,0 +1,4 @@
+Create a log file using logger module. Write a function display_words() in python to read lines 
+from a text file "story.txt" (take the file name from user), and display those words in INFO level log, 
+for those words which are less than 4 characters needs to be logged as in CRITICAL level log.
+If user enter the wrong file name in input then raise ERROR in log file  
