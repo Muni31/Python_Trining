@@ -20,7 +20,7 @@ def critical_files(folder_path, log_folder_path):
             logging.critical(f"CRITICAL: File not found: {filename}")
 
 folder_path = 'D:\Python-Training\Day7'
-log_folder_path = 'D:\Python-Training\info_logs.log'
+log_folder_path = 'D:\Python-Training\Day7'
 
 info_files(folder_path)
 critical_files(folder_path, log_folder_path)

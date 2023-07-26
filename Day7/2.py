@@ -32,5 +32,5 @@ def check_folders_and_files(json_path, predef_loc):
 
 if __name__ == "__main__":
     json_path = "folders_and_files.json"
-    predef_loc = "D:\Python-Training\Day7\predefinedLocation" 
+    predef_loc = "D:\Python-Training\Day7" 
     check_folders_and_files(json_path, predef_loc)
